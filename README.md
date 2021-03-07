@@ -7,6 +7,9 @@ After some trial and error, debugs where looking ok, I got values quite easily i
 Searching online I read, that I wasn't the only one who had this problem. Surprisingly however I nowhere could find the solution to this problem.
 Many hours later, spread over a few weeks, I now seem to have found the solution. Still not sure I understand the logic behind it, but hey, it works.
 
+Computer: Raspberry Pi Zero W
+OS: Dietpi
+
 Used Node-RED nodes:
 - node-red : mqtt in
 - node-red : function
